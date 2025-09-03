@@ -24,7 +24,7 @@ dependencies:
   # TODO(YASH): Use pub.dev version once chatview_utils latest version is released
   chatview_utils:
     git:
-      url: https://github.com/SimformSolutionsPvtLtd/chatview_utils
+      url: https://github.com/merterkoc/chatview_utils
       ref: feature/add_chatview_list_models
 
   cloud_firestore: ^6.0.0
